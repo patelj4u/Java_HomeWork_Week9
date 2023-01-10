@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ad21ec9c-ae9c-4345-bc78-657764d98b0d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java_HomeWork_Week9.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Prog10_Group_Member.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Prog2_MarkSheet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Prog3_Array_c.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Prog4_Array_Elements.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Prog5_TubeName.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Prog7_Map.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Prog8_Station.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Prog9_Group_Name.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/calculate/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/calculate/Main.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2K9288U7fmM23m5M49awMuju7a4" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.Prog5_TubeName">
+    <configuration name="Prog10_Group_Member" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Prog10_Group_Member" />
+      <module name="Java_HomeWork_Week9" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Prog3_Array_c" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Prog3_Array_c" />
+      <module name="Java_HomeWork_Week9" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Prog4_Array_Elements" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Prog4_Array_Elements" />
+      <module name="Java_HomeWork_Week9" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Prog5_TubeName" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Prog5_TubeName" />
+      <module name="Java_HomeWork_Week9" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Prog8_Station" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Prog8_Station" />
+      <module name="Java_HomeWork_Week9" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Prog5_TubeName" />
+        <item itemvalue="Application.Prog10_Group_Member" />
+        <item itemvalue="Application.Prog8_Station" />
+        <item itemvalue="Application.Prog4_Array_Elements" />
+        <item itemvalue="Application.Prog3_Array_c" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ad21ec9c-ae9c-4345-bc78-657764d98b0d" name="Changes" comment="" />
+      <created>1673372317555</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1673372317555</updated>
+    </task>
+    <servers />
+  </component>
+</project>
